@@ -188,7 +188,7 @@ REF NO : 212222230119
   Lcd_cursor(&lcd, 0,0);
   Lcd_string(&lcd,"AIML");
   Lcd_cursor(&lcd, 1,0);
-  Lcd_string(&lcd,"CHARUMATHI");
+  Lcd_string(&lcd,"RISHI M");
 
 ```
 
@@ -198,7 +198,8 @@ REF NO : 212222230119
 
 
  AFTER:
-![Screenshot (158)](https://github.com/charumathiramesh/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/120204455/e6ac9eaf-f0a3-4ec3-a2e4-7e77fd6863f3)
+![imgpmc (1)](https://github.com/Rishi-M007/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/113497512/15d3ed53-fbb0-4e0c-a5c7-85ae93b37427)
+
 
  
  
